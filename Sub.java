@@ -2,8 +2,8 @@ public class JavaProgram
 {
     public static void main(String args[])
   {
-    int first, second, subtract,addition;
-    float devide;
+    int first, second, subtract, mul;
+
     Scanner scanner = new Scanner(System.in);
 
     System.out.print("Enter Two Numbers : ");

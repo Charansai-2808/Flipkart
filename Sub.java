@@ -2,7 +2,7 @@ public class JavaProgram
 {
     public static void main(String args[])
   {
-    int first, second, subtract, mul;
+    int first, second, subtract, multiply;
     
     Scanner scanner = new Scanner(System.in);
 
